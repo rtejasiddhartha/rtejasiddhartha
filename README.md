@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile.
 
----
-
-<img src="https://img.icons8.com/fluency/96/000000/data-analytics.png" alt="Data Analytics" width="80" align="right">
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Data Analyst** dedicated to transforming data into actionable insights!  
