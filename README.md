@@ -1,148 +1,88 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sid%20|%20Data%20Analyst&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/rtejasiddhartha/assets/main/banner-data-analyst.png" alt="Data Analyst Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Sid</h1>
-
-<h3 align="center">
-🎯 Data Analyst | SQL • Python • Power BI <br/>
-Business Analytics & Automation
-</h3>
+<h1 align="center">Sid</h1>
 
 <p align="center">
-I’m a Data Analyst with hands-on experience in SQL-driven analysis, automated reporting, and dashboarding, focused on transforming complex datasets into clear, decision-ready insights. I enjoy solving real business problems using data — from operational troubleshooting to predictive analytics.
+  <strong>Data Analyst</strong> · SQL · Python · Power BI · Business Analytics
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rtejasiddhartha&label=Profile%20Views&color=0e75b6&style=flat" />
+  I work at the intersection of data, systems, and decision-making — translating complex datasets into insights that reduce risk, improve efficiency, and support business outcomes.
 </p>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/216656949-0e4c3a57-01a2-4c8b-98d4-ecf0c2c7f5c7.gif" width="100%" />
-
-## 👨‍💻 About Me  
-
-🔍 **1+ year** experience in data analysis, reporting & root cause analysis  
-🧠 **Strong SQL** (CTEs, Window Functions, Query Optimization)  
-📊 **Power BI dashboards** for KPI tracking & stakeholder reporting  
-🐍 **Python** for data cleaning, EDA, automation & modeling  
-⚙️ **Production systems** & business operations analytics  
-📈 **Impact-focused analytics**, not just code  
+<br/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656949-0e4c3a57-01a2-4c8b-98d4-ecf0c2c7f5c7.gif" width="100%" />
+## Profile
 
-## 📊 What I Do  
+I am a Data Analyst with hands-on experience in SQL-driven analysis, automated reporting, and dashboarding.  
+My work focuses on **clarity, accuracy, and business relevance**, not just technical execution.
 
-### 📌 Data Analytics & Reporting  
-- Analyze structured data using **SQL (MySQL, DB2, Oracle)**  
-- Perform **EDA, data cleaning, reconciliation, and validation**  
-- Translate raw data into **business insights & KPIs**  
-
-### 📈 Dashboards & Visualization  
-- Build **Power BI dashboards** (DAX, trends, distributions, KPIs)  
-- Create **stakeholder-ready reports** for decision-making  
-- Visual storytelling using **matplotlib & seaborn**  
-
-### 🤖 Automation & Pipelines  
-- Automate data workflows using **Python**  
-- Build **analysis-ready datasets** from raw data  
-- Reduce **manual reporting and investigation time**  
-
-### 🧠 Predictive Analytics (Foundations)  
-- Logistic Regression & Feature Engineering  
-- Risk flagging, classification & clustering (basics)  
-- Business-oriented model interpretation  
+I have supported **production systems**, investigated **data and transaction failures**, and built **analytics pipelines** that enable teams to act with confidence.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656949-0e4c3a57-01a2-4c8b-98d4-ecf0c2c7f5c7.gif" width="100%" />
+## Core Expertise
 
-## 🛠️ Tools & Technologies  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,excel" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter" />
-</p>
-
-<p align="center">
-Power BI • SQL • Python • Pandas • NumPy • Scikit-learn
-</p>
+- Advanced SQL: CTEs, Window Functions, multi-table joins, query optimization  
+- Data analysis and reconciliation across large operational datasets  
+- Power BI dashboards for KPI monitoring and stakeholder reporting  
+- Python for data cleaning, EDA, automation, and modeling  
+- Root cause analysis for operational and data integrity issues  
+- Analytics delivery within Agile environments  
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656949-0e4c3a57-01a2-4c8b-98d4-ecf0c2c7f5c7.gif" width="100%" />
+## Selected Work
 
-## 📁 Featured Projects  
+### Customer Churn Analysis  
+**SQL · Python · Power BI**
 
-<table>
-<tr>
-<td width="50%">
+- Built an end-to-end churn analytics pipeline on 10K+ customer records  
+- Performed feature engineering, EDA, and logistic regression modeling  
+- Identified ~30% high-risk customers and delivered retention-focused dashboards  
 
-### 📌 Customer Churn Analysis  
-**SQL | Python | Power BI**
-
-- Processed **10K+ customer records** end-to-end  
-- Built churn pipeline with **data cleaning, EDA & logistic regression**  
-- Identified **~30% high-risk customers**  
-- Delivered **Power BI dashboards** for retention insights  
-
-🔗 **Repository**  
-https://github.com/rtejasiddhartha/customer-churn-analysis  
-
-</td>
-<td width="50%">
-
-### 📌 Health Metrics Risk Analysis *(Internship Project)*  
-**Python | Power BI**
-
-- Automated **sensor data pipelines** with validation checks  
-- Engineered features achieving **~85% risk detection accuracy**  
-- Visualized **longitudinal health trends** for stakeholders  
-
-🔗 **Repository**  
-https://github.com/rtejasiddhartha/Wearable-Analytics  
-
-</td>
-</tr>
-</table>
+[Repository](https://github.com/rtejasiddhartha/customer-churn-analysis )  
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656949-0e4c3a57-01a2-4c8b-98d4-ecf0c2c7f5c7.gif" width="100%" />
+### Health Metrics Risk Analysis *(Internship Project)*  
+**Python · Power BI**
 
-## 💡 Interests  
+- Designed automated pipelines to process longitudinal sensor data  
+- Engineered risk indicators achieving ~85% detection accuracy  
+- Delivered analytical summaries and dashboards for stakeholder review  
 
-- 📈 Business Intelligence & KPI Design  
-- 📚 Data Storytelling for Executives  
-- 🔮 Predictive & Risk Analytics  
-- 🤖 Workflow Automation & Analytics Engineering  
-
----
-
-## 🌱 Currently Learning  
-
-- Advanced Machine Learning (model tuning & evaluation)  
-- Cloud Data Platforms (**AWS, BigQuery**)  
-- Data Engineering Fundamentals (**ETL, pipelines**)  
+[Repository](https://github.com/rtejasiddhartha/Wearable-Analytics  )  
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656949-0e4c3a57-01a2-4c8b-98d4-ecf0c2c7f5c7.gif" width="100%" />
+## Tools
 
-## 🤝 Connect With Me  
+Python · SQL · Power BI · Excel  
+Pandas · NumPy · Scikit-learn  
+Jupyter · VS Code · PyCharm · GitHub  
 
-<p align="center">
-  <a href="https://linkedin.com/in/rtejasiddhartha">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:rtejasiddhartha18@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/rtejasiddhartha">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+---
+
+## Current Focus
+
+- Strengthening applied machine learning foundations  
+- Cloud-based analytics platforms (AWS, BigQuery)  
+- Data engineering fundamentals (ETL, pipelines, data modeling)  
+
+---
+
+## Contact
+
+LinkedIn  
+https://linkedin.com/in/rtejasiddhartha  
+
+GitHub  
+https://github.com/rtejasiddhartha  
+
+Email  
+rtejasiddhartha18@gmail.com  
