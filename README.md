@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rtejasiddhartha/assets/main/banner-data-analyst.png" alt="Data Analyst Banner" />
-</p>
-
-<h1 align="center">Sid</h1>
+<h1 align="center">Hey! I'm Sid</h1>
 
 <p align="center">
   <strong>Data Analyst</strong> · SQL · Python · Power BI · Business Analytics
