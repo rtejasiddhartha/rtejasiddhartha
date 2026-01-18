@@ -32,7 +32,7 @@ I have supported **production systems**, investigated **data and transaction fai
 
 ---
 
-## Selected Work
+## Projects
 
 ### Customer Churn Analysis  
 **SQL · Python · Power BI**
