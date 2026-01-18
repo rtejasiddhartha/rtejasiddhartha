@@ -1,4 +1,4 @@
-## 👋 Hi, I'm **Sid **
+## 👋 Hi, I'm Sid
 
 🎯 **Data Analyst | SQL • Python • Power BI | Business Analytics & Automation**
 
