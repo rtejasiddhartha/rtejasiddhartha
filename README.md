@@ -1,61 +1,113 @@
-# 👋 Hi, I'm Sid! 
+## 👋 Hi, I'm **Sid **
 
-Welcome to my GitHub profile.
+🎯 **Data Analyst | SQL • Python • Power BI | Business Analytics & Automation**
+
+I’m a Data Analyst with **hands-on experience in SQL-driven analysis, automated reporting, and dashboarding**, focused on turning complex datasets into **clear, decision-ready insights**.
+I enjoy solving **real business problems** using data — from operational troubleshooting to predictive analytics.
+
+---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Data Analyst** dedicated to transforming data into actionable insights!  
-I specialize in data cleaning, visualization, and reporting, and I love making information accessible for everyone.
+* 🔍 1+ year experience in **data analysis, reporting, and root cause analysis**
+* 🧠 Strong in **SQL (CTEs, Window Functions, Query Optimization)**
+* 📊 Build **Power BI dashboards** for KPI tracking & stakeholder reporting
+* 🐍 Use **Python** for data cleaning, EDA, automation & modeling
+* ⚙️ Experience supporting **production systems & business operations**
+* 📈 Passionate about **business impact, not just code**
 
 ---
 
 ## 📊 What I Do
 
-- **Data Analysis** with Python (pandas, numpy), R, and SQL
-- **Visualization** using Tableau, Power BI, matplotlib & seaborn
-- **Reporting & Dashboards** for business stakeholders
-- **Automation** of workflows with [n8n](https://n8n.io/) 🤖
-- **Machine Learning** (basics): predictive modeling & clustering
+### 📌 Data Analytics & Reporting
+
+* Analyze structured data using **SQL (MySQL, DB2, Oracle)**
+* Perform **EDA, data cleaning, reconciliation, and validation**
+* Translate raw data into **business insights & KPIs**
+
+### 📈 Dashboards & Visualization
+
+* Build **Power BI dashboards** (DAX, trends, distributions, KPIs)
+* Create stakeholder-ready reports for **decision-making**
+* Visual storytelling using **matplotlib & seaborn**
+
+### 🤖 Automation & Pipelines
+
+* Automate data workflows using **Python**
+* Build analysis-ready datasets from raw data
+* Reduce manual reporting and investigation time
+
+### 🧠 Predictive Analytics (Foundations)
+
+* Logistic Regression, Feature Engineering
+* Risk flagging, classification & clustering (basics)
+* Business-oriented model interpretation
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Python | R | SQL | Tableau | Power BI | n8n | Excel | Jupyter | GitHub |
-|:------:|:--:|:---:|:-------:|:--------:|:---:|:-----:|:-------:|:------:|
-| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![R](https://img.icons8.com/ios-filled/50/000000/r-project.png) | ![SQL](https://img.icons8.com/color/48/000000/sql.png) | ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) | ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) | ![n8n](https://avatars.githubusercontent.com/u/45487704?s=48) | ![Excel](https://img.icons8.com/color/48/000000/ms-excel.png) | ![Jupyter](https://img.icons8.com/fluency/48/000000/jupyter.png) | ![GitHub](https://img.icons8.com/glyph-neue/48/000000/github.png) |
+**Languages & Libraries**
+`Python (Pandas, NumPy, Scikit-learn)` • `SQL`
+
+**BI & Analytics**
+`Power BI (DAX)` • `Excel (Pivot Tables, KPI Reporting)`
+
+**Platforms & Tools**
+`Jupyter Notebook` • `VS Code` • `PyCharm` • `GitHub` • `PuTTY`
+
+**Core Competencies**
+`CTEs` • `Window Functions` • `Data Reconciliation` • `Root Cause Analysis` • `Agile Analytics`
+
+---
+
+## 📁 Featured Projects
+
+### 📌 Customer Churn Analysis
+
+**SQL | Python | Power BI**
+
+* Processed **10K+ customer records** end-to-end
+* Built churn pipeline with **data cleaning, EDA & logistic regression**
+* Identified **~30% high-risk customers**
+* Delivered **Power BI dashboards** for retention insights
+
+🔗 *[Repository link](https://github.com/rtejasiddhartha/customer-churn-analysis)*
+
+---
+
+### 📌 Health Metrics Risk Analysis *(Internship Project)*
+
+**Python | Power BI**
+
+* Automated sensor data pipelines with validation checks
+* Engineered features achieving **~85% risk detection accuracy**
+* Visualized longitudinal trends for stakeholder review
+
+🔗 *[Repository link](https://github.com/rtejasiddhartha/Wearable-Analytics)*
 
 ---
 
 ## 💡 Interests
 
-- Business Intelligence 📈
-- Data Storytelling 📚
-- Predictive Analytics 🔮
-- Workflow Automation 🤖
-
----
-
-## 📁 Projects
-
-Check out my repositories for analyses on sales data, customer segmentation, and more!
+* 📈 Business Intelligence & KPI Design
+* 📚 Data Storytelling for Executives
+* 🔮 Predictive & Risk Analytics
+* 🤖 Workflow Automation & Analytics Engineering
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced machine learning
-- Cloud data platforms (AWS, BigQuery)
-- Data engineering fundamentals
+* Advanced Machine Learning (model tuning & evaluation)
+* Cloud Data Platforms (**AWS, BigQuery**)
+* Data Engineering Fundamentals (ETL, pipelines)
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Email](mailto:your-email@example.com)
-
----
-
-Thanks for visiting my profile!  
-<img src="https://img.icons8.com/fluency/48/000000/rocket.png" alt="Rocket" width="40">
+* 🔗 **LinkedIn:** [https://linkedin.com/in/rtejasiddhartha](https://linkedin.com/in/rtejasiddhartha)
+* 💻 **GitHub:** [https://github.com/rtejasiddhartha](https://github.com/rtejasiddhartha)
+* 📧 **Email:** [rtejasiddhartha18@gmail.com](mailto:rtejasiddhartha18@gmail.com)
