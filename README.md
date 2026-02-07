@@ -47,7 +47,8 @@
 
 <p>
 🔗 <a href="https://crypto-gemini-insights.streamlit.app/">Live App</a> |
-<a href="https://github.com/rtejasiddhartha/n8n-crypto-live">Repository</a>
+🔗 <a href="https://github.com/rtejasiddhartha/n8n-crypto-live">Repository</a>
+🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiZDg3MGUyMjQtZjJlZC00MmZmLTk2NTItZTQyOGI5Y2ZjMTcxIiwidCI6IjA0MzJkMmY1LTA0MzUtNGJjMy1iNDBjLThhOTdmZTJkODc2YSJ9&pageName=3e73130aec9e07ad0e26">DASHBOARD</a>  
 </p>
 
 ---
@@ -88,6 +89,7 @@
 
 <p>
 🔗 <a href="https://github.com/rtejasiddhartha/customer-churn-analysis">Repository</a>
+🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWEyYzIwYWEtMTQ2Mi00MjUzLWFkMjEtZTQ4MmFkY2IzY2Y3IiwidCI6IjA0MzJkMmY1LTA0MzUtNGJjMy1iNDBjLThhOTdmZTJkODc2YSJ9&pageName=96ef2374c898c7fb3173">DASHBOARD</a>
 </p>
 
 ---
