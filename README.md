@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 What I Actually Do
+## What I Actually Do
 
 <ul>
   <li><b>Python:</b> Data cleaning, EDA, feature engineering, automation pipelines</li>
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔷 Automated Crypto Market Analytics Platform
+##  Automated Crypto Market Analytics Platform
 
 <p>
 <b>Python · Power BI · BigQuery · n8n · AI</b>
@@ -52,7 +52,7 @@
 
 ---
 
-## 🔷 North America Music Retail – SQL Analytics Platform
+## North America Music Retail – SQL Analytics Platform
 
 <p>
 <b>SQL · OLTP/OLAP Modeling · Business Analytics</b>
@@ -68,11 +68,12 @@
 
 <p>
 🔗 <a href="https://github.com/rtejasiddhartha/Music-Retail-Analytics">Repository</a>
+🔗 <a href="https://onedrive.live.com/personal/fc4753770f211a32/_layouts/15/Doc.aspx?sourcedoc=%7B0bdaa0a0-ad6e-46d4-a72c-91e740b8ccd9%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9mYzQ3NTM3NzBmMjExYTMyL0lRQ2dvTm9MYnEzVVJxY3NrZWRBdU16WkFhd2NUYUhIT2Nic0lvd0ppcGtad2VR&slrid=0890f4a1-c05f-b000-a542-1f7dfcdf50c8&originalPath=aHR0cHM6Ly9vbmVkcml2ZS5saXZlLmNvbS86cDovZy9wZXJzb25hbC9mYzQ3NTM3NzBmMjExYTMyL0lRQ2dvTm9MYnEzVVJxY3NrZWRBdU16WkFhd2NUYUhIT2Nic0lvd0ppcGtad2VRP3J0aW1lPXpMS0pwQk5tM2tnJnJlZGVlbT1hSFIwY0hNNkx5OHhaSEoyTG0xekwzQXZZeTltWXpRM05UTTNOekJtTWpFeFlUTXlMMGxSUTJkdlRtOU1ZbkV6VlZKeFkzTnJaV1JCZFUxNldrRmhkMk5VWVVoSVQyTmljMGx2ZDBwcGNHdGFkMlZS&CID=c2fddbcc-27b0-475b-87f6-e7e0aef11a09&_SRM=0%3AG%3A47&file=Music_Retail_Analytics.pptx">Business Overview</a>
 </p>
 
 ---
 
-## 🔷 Customer Churn & Risk Segmentation (SaaS)
+## Customer Churn & Risk Segmentation (SaaS)
 
 <p>
 <b>Python · SQL · Power BI</b>
@@ -91,7 +92,7 @@
 
 ---
 
-## 🔷 Wearable Health Risk Monitoring
+## Wearable Health Risk Monitoring
 
 <p>
 <b>Python · Time-Series Analysis · Feature Engineering</b>
