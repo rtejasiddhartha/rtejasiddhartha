@@ -47,8 +47,8 @@
 
 <p>
 🔗 <a href="https://crypto-gemini-insights.streamlit.app/">Live App</a> |
-🔗 <a href="https://github.com/rtejasiddhartha/n8n-crypto-live">Repository</a>
-🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiZDg3MGUyMjQtZjJlZC00MmZmLTk2NTItZTQyOGI5Y2ZjMTcxIiwidCI6IjA0MzJkMmY1LTA0MzUtNGJjMy1iNDBjLThhOTdmZTJkODc2YSJ9&pageName=3e73130aec9e07ad0e26">DASHBOARD</a>  
+ <a href="https://github.com/rtejasiddhartha/n8n-crypto-live">Repository</a> |
+ <a href="https://app.powerbi.com/view?r=eyJrIjoiZDg3MGUyMjQtZjJlZC00MmZmLTk2NTItZTQyOGI5Y2ZjMTcxIiwidCI6IjA0MzJkMmY1LTA0MzUtNGJjMy1iNDBjLThhOTdmZTJkODc2YSJ9&pageName=3e73130aec9e07ad0e26">DASHBOARD</a>  
 </p>
 
 ---
@@ -68,8 +68,8 @@
 </ul>
 
 <p>
-🔗 <a href="https://github.com/rtejasiddhartha/Music-Retail-Analytics">Repository</a>
-🔗 <a href="https://onedrive.live.com/personal/fc4753770f211a32/_layouts/15/Doc.aspx?sourcedoc=%7B0bdaa0a0-ad6e-46d4-a72c-91e740b8ccd9%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9mYzQ3NTM3NzBmMjExYTMyL0lRQ2dvTm9MYnEzVVJxY3NrZWRBdU16WkFhd2NUYUhIT2Nic0lvd0ppcGtad2VR&slrid=0890f4a1-c05f-b000-a542-1f7dfcdf50c8&originalPath=aHR0cHM6Ly9vbmVkcml2ZS5saXZlLmNvbS86cDovZy9wZXJzb25hbC9mYzQ3NTM3NzBmMjExYTMyL0lRQ2dvTm9MYnEzVVJxY3NrZWRBdU16WkFhd2NUYUhIT2Nic0lvd0ppcGtad2VRP3J0aW1lPXpMS0pwQk5tM2tnJnJlZGVlbT1hSFIwY0hNNkx5OHhaSEoyTG0xekwzQXZZeTltWXpRM05UTTNOekJtTWpFeFlUTXlMMGxSUTJkdlRtOU1ZbkV6VlZKeFkzTnJaV1JCZFUxNldrRmhkMk5VWVVoSVQyTmljMGx2ZDBwcGNHdGFkMlZS&CID=c2fddbcc-27b0-475b-87f6-e7e0aef11a09&_SRM=0%3AG%3A47&file=Music_Retail_Analytics.pptx">Business Overview</a>
+🔗 <a href="https://github.com/rtejasiddhartha/Music-Retail-Analytics">Repository</a> |
+ <a href="https://onedrive.live.com/personal/fc4753770f211a32/_layouts/15/Doc.aspx?sourcedoc=%7B0bdaa0a0-ad6e-46d4-a72c-91e740b8ccd9%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9mYzQ3NTM3NzBmMjExYTMyL0lRQ2dvTm9MYnEzVVJxY3NrZWRBdU16WkFhd2NUYUhIT2Nic0lvd0ppcGtad2VR&slrid=0890f4a1-c05f-b000-a542-1f7dfcdf50c8&originalPath=aHR0cHM6Ly9vbmVkcml2ZS5saXZlLmNvbS86cDovZy9wZXJzb25hbC9mYzQ3NTM3NzBmMjExYTMyL0lRQ2dvTm9MYnEzVVJxY3NrZWRBdU16WkFhd2NUYUhIT2Nic0lvd0ppcGtad2VRP3J0aW1lPXpMS0pwQk5tM2tnJnJlZGVlbT1hSFIwY0hNNkx5OHhaSEoyTG0xekwzQXZZeTltWXpRM05UTTNOekJtTWpFeFlUTXlMMGxSUTJkdlRtOU1ZbkV6VlZKeFkzTnJaV1JCZFUxNldrRmhkMk5VWVVoSVQyTmljMGx2ZDBwcGNHdGFkMlZS&CID=c2fddbcc-27b0-475b-87f6-e7e0aef11a09&_SRM=0%3AG%3A47&file=Music_Retail_Analytics.pptx">Business Overview</a>
 </p>
 
 ---
@@ -88,8 +88,8 @@
 </ul>
 
 <p>
-🔗 <a href="https://github.com/rtejasiddhartha/customer-churn-analysis">Repository</a>
-🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWEyYzIwYWEtMTQ2Mi00MjUzLWFkMjEtZTQ4MmFkY2IzY2Y3IiwidCI6IjA0MzJkMmY1LTA0MzUtNGJjMy1iNDBjLThhOTdmZTJkODc2YSJ9&pageName=96ef2374c898c7fb3173">DASHBOARD</a>
+🔗 <a href="https://github.com/rtejasiddhartha/customer-churn-analysis">Repository</a> |
+ <a href="https://app.powerbi.com/view?r=eyJrIjoiYWEyYzIwYWEtMTQ2Mi00MjUzLWFkMjEtZTQ4MmFkY2IzY2Y3IiwidCI6IjA0MzJkMmY1LTA0MzUtNGJjMy1iNDBjLThhOTdmZTJkODc2YSJ9&pageName=96ef2374c898c7fb3173">DASHBOARD</a>
 </p>
 
 ---
