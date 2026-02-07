@@ -1,84 +1,132 @@
-<h1 align="center">Hey! I'm Sid</h1>
+<h1 align="center">Hi, I'm Sid 👋</h1>
 
 <p align="center">
-  <strong>Data Analyst</strong> · SQL · Python · Power BI · Business Analytics
+  <b>Data Analyst</b> <br/>
+  Python • Power BI • SQL • AI-Assisted Analytics
 </p>
 
 <p align="center">
-  I work at the intersection of data, systems, and decision-making — translating complex datasets into insights that reduce risk, improve efficiency, and support business outcomes.
+  I design structured analytics systems that transform complex data into reliable business insight.
 </p>
 
 <br/>
 
 ---
 
-## Profile
+## 🧠 What I Actually Do
 
-I am a Data Analyst with hands-on experience in SQL-driven analysis, automated reporting, and dashboarding.  
-My work focuses on **clarity, accuracy, and business relevance**, not just technical execution.
-
-I have supported **production systems**, investigated **data and transaction failures**, and built **analytics pipelines** that enable teams to act with confidence.
-
----
-
-## Core Expertise
-
-- Advanced SQL: CTEs, Window Functions, multi-table joins, query optimization  
-- Data analysis and reconciliation across large operational datasets  
-- Power BI dashboards for KPI monitoring and stakeholder reporting  
-- Python for data cleaning, EDA, automation, and modeling  
-- Root cause analysis for operational and data integrity issues  
-- Analytics delivery within Agile environments  
+<ul>
+  <li><b>Python:</b> Data cleaning, EDA, feature engineering, automation pipelines</li>
+  <li><b>Power BI:</b> KPI architecture, DAX modeling, executive dashboards</li>
+  <li><b>SQL:</b> CTEs, window functions, performance optimization, OLTP → OLAP modeling</li>
+  <li>Design analytics layers separating ingestion, transformation, and reporting</li>
+  <li>Translate data outputs into stakeholder-ready insight</li>
+  <li>Integrate AI responsibly for explainable KPI summaries</li>
+</ul>
 
 ---
 
-## Projects
-
-### Customer Churn Analysis  
-**SQL · Python · Power BI**
-
-- Built an end-to-end churn analytics pipeline on 10K+ customer records  
-- Performed feature engineering, EDA, and logistic regression modeling  
-- Identified ~30% high-risk customers and delivered retention-focused dashboards  
-
-[Repository](https://github.com/rtejasiddhartha/customer-churn-analysis )  
+# 🚀 Featured Projects
 
 ---
 
-### Health Metrics Risk Analysis *(Internship Project)*  
-**Python · Power BI**
+## 🔷 Automated Crypto Market Analytics Platform
 
-- Designed automated pipelines to process longitudinal sensor data  
-- Engineered risk indicators achieving ~85% detection accuracy  
-- Delivered analytical summaries and dashboards for stakeholder review  
+<p>
+<b>Python · Power BI · BigQuery · n8n · AI</b>
+</p>
 
-[Repository](https://github.com/rtejasiddhartha/Wearable-Analytics  )  
+<ul>
+  <li>Automated ingestion workflows via n8n</li>
+  <li>Cleaned and standardized inconsistent API data (~30% issue reduction)</li>
+  <li>Designed KPI framework (market cap, dominance, volume, ATH proximity)</li>
+  <li>Built multi-page Power BI dashboards with slicer-aware DAX logic</li>
+  <li>Integrated AI-generated narrative summaries</li>
+  <li>Reduced AI API usage costs by ~60%</li>
+</ul>
 
----
-
-## Tools
-
-Python · SQL · Power BI · Excel  
-Pandas · NumPy · Scikit-learn  
-Jupyter · VS Code · PyCharm · GitHub  
-
----
-
-## Current Focus
-
-- Strengthening applied machine learning foundations  
-- Cloud-based analytics platforms (AWS, BigQuery)  
-- Data engineering fundamentals (ETL, pipelines, data modeling)  
+<p>
+🔗 <a href="https://crypto-gemini-insights.streamlit.app/">Live App</a> |
+<a href="https://github.com/rtejasiddhartha/n8n-crypto-live">Repository</a>
+</p>
 
 ---
 
-## Contact
+## 🔷 North America Music Retail – SQL Analytics Platform
 
-LinkedIn  
-https://linkedin.com/in/rtejasiddhartha  
+<p>
+<b>SQL · OLTP/OLAP Modeling · Business Analytics</b>
+</p>
 
-GitHub  
-https://github.com/rtejasiddhartha  
+<ul>
+  <li>Designed normalized OLTP schema (customers, orders, invoices, stores, vendors)</li>
+  <li>Built star-schema OLAP layer for analytical querying</li>
+  <li>Analyzed 4 years of data across US & Canada</li>
+  <li>Identified 70.7% repeat customer rate</li>
+  <li>Reduced analytical query complexity by ~40%</li>
+</ul>
 
-Email  
-rtejasiddhartha18@gmail.com  
+<p>
+🔗 <a href="https://github.com/rtejasiddhartha/Music-Retail-Analytics">Repository</a>
+</p>
+
+---
+
+## 🔷 Customer Churn & Risk Segmentation (SaaS)
+
+<p>
+<b>Python · SQL · Power BI</b>
+</p>
+
+<ul>
+  <li>Engineered 20+ behavioral churn indicators</li>
+  <li>Built class-weighted logistic regression model</li>
+  <li>Calibrated thresholds for operational retention capacity</li>
+  <li>Segmented users into Low / Medium / High risk tiers</li>
+</ul>
+
+<p>
+🔗 <a href="https://github.com/rtejasiddhartha/customer-churn-analysis">Repository</a>
+</p>
+
+---
+
+## 🔷 Wearable Health Risk Monitoring
+
+<p>
+<b>Python · Time-Series Analysis · Feature Engineering</b>
+</p>
+
+<ul>
+  <li>Processed irregular longitudinal XML sensor data</li>
+  <li>Engineered physiological & behavioral features</li>
+  <li>Unified multi-signal health timelines</li>
+  <li>Logistic regression model (ROC-AUC ~0.95)</li>
+</ul>
+
+<p>
+🔗 <a href="https://github.com/rtejasiddhartha/Wearable-Analytics">Repository</a>
+</p>
+
+---
+
+# 🛠 Technical Stack
+
+<p>
+<b>Languages:</b> Python · SQL <br/>
+<b>BI:</b> Power BI · DAX · Excel <br/>
+<b>Data:</b> EDA · Data Cleaning · Feature Engineering · KPI Modeling <br/>
+<b>Cloud & Automation:</b> BigQuery · n8n · Streamlit <br/>
+<b>AI:</b> Gemini · Claude
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+<a href="https://rtejasiddhartha.netlify.app/">Portfolio</a> •
+<a href="https://linkedin.com/in/rtejasiddhartha">LinkedIn</a> •
+<a href="https://github.com/rtejasiddhartha">GitHub</a> •
+rtejasiddhartha18@gmail.com
+</p>
